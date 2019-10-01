@@ -1,6 +1,9 @@
 {
-  "emergencyStatus": {
+  "emergencyStatusOn": {
     "url": "https://orf.at",
-    "statuscode": "200"
+    "statusCode": "200"
+  },
+  "emergencyStatusOff": {
+    "statusCode": "503"
   }
 }
