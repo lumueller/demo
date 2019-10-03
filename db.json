@@ -1,6 +1,6 @@
 {
   "emergencyStatusOn": {
-    "url": "https://orf.at",
+    "url": "http://mps.test.apa.at/_ANDROID_TESTING/v6/maintenance/maintenance.htm",
     "statusCode": "200"
   },
   "emergencyStatusOff": {
