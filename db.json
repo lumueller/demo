@@ -7,10 +7,10 @@
     "statusCode": "503"
   },
   "page": {
-        "hasNext": true,
-        "number": 1,
-        "size": 30,
-        "totalElements": 9733
+    "hasNext": true,
+    "number": 1,
+    "size": 30,
+    "totalElements": 9733
   },
   "content": [
         {
