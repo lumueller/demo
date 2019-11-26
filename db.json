@@ -4,31 +4,5 @@
         "number": 1,
         "size": 30,
         "totalElements": 9733
-    },
-    "content": [
-        {
-            "title": "FP\u00d6-Darmann: Skandal\u00f6se Behinderung der Aufkl\u00e4rungsarbeit des Kontrollausschusses des K\u00e4rntner Landtages!",
-            "releaseTimestamp": 1574768826,
-            "originatorName": "Die Freiheitlichen in K\u00e4rnten",
-            "originatorId": "2191",
-            "otsKey": "OTS_20191126_OTS0133",
-            "releaseLink": "https://www.ots.at/app/v2/presseaussendung/OTS_20191126_OTS0133"
-        },
-        {
-            "title": "Disoski zu Frauenmord-Screening: Akuter Handlungsbedarf bei Gef\u00e4hrdungserkennung",
-            "releaseTimestamp": 1574768499,
-            "originatorName": "Gr\u00fcner Klub im Parlament",
-            "originatorId": "100",
-            "otsKey": "OTS_20191126_OTS0132",
-            "releaseLink": "https://www.ots.at/app/v2/presseaussendung/OTS_20191126_OTS0132"
-        },
-        {
-            "title": "Termine am 27. November in der Rathauskorrespondenz",
-            "releaseTimestamp": 1574767816,
-            "originatorName": "PID Presse- und Informationsdienst der Stadt Wien",
-            "originatorId": "174",
-            "otsKey": "OTS_20191126_OTS0127",
-            "releaseLink": "https://www.ots.at/app/v2/presseaussendung/OTS_20191126_OTS0127"
-        }
-    ]
+    }
 }
