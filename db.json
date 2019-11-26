@@ -1,8 +1,9 @@
 {
-    "page": {
-        "hasNext": true,
-        "number": 1,
-        "size": 30,
-        "totalElements": 9733
-    }
+  "emergencyStatusOn": {
+    "url": "http://mps.test.apa.at/_ANDROID_TESTING/v6/maintenance/maintenance.htm",
+    "statusCode": "200"
+  },
+  "emergencyStatusOff": {
+    "statusCode": "503"
+  }
 }
